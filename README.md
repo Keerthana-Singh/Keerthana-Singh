@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Keerthana-Singh
 - 👀 I’m interested in Java develpoment
-- 🌱 I’m currently learning Spring boot 
+- 🌱 I’m currently learning and working under Spring boot 
 - 📫 Reach me on keerthanasadhusundarsingh@gmail.com
 
 <!---
